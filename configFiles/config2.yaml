@@ -1,0 +1,14 @@
+modelparameters:
+  batch_size: 100
+
+hyperparameters:
+  learning_rate: 0.0001
+  epochs: 1000
+
+
+logging:
+  filename: samplelogger2 #optional and defaults to log.log
+  level: "DEBUG" #optional and defaults to DEBUG
+  logOnly: "DEBUG"
+  format: "%(levelname)s:%(filename)s:%(message)s at line %(lineno)s"
+  #format: "%(asctime)s:%(levelname)s:%(filename)s:%(message)s at line %(lineno)s"

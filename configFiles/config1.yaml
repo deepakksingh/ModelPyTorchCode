@@ -1,0 +1,31 @@
+k1: deepak
+k2: singh
+k3: 100
+k4: 1e+12
+k5: true
+k6: null
+key seven: key seven value
+k8: 'A string can be in quotes'
+'k9': "using quotes we can include : as key value"
+single quotes: 'have ''one'' escape pattern'
+double quotes: "have many:\", \0, \t ,\u263A, \x0d\x0a == \r\n, and more."
+
+anchored_content : &custom_anchor_name this content will be repeated
+other_anchor: *custom_anchor_name
+
+keywithseqvals : [1,2,3,hello,"deepak"]
+#json_map: {key1:val1,"key2":"val2"}
+
+literal_block: |
+  hello world this content 
+  belongs in a block 
+  this
+    is 
+      a
+        multiline
+          content
+
+parent_key1: 
+  nested_key1a: studentname1
+  child_parent1b:
+    child_childkey1ba: omg

@@ -1,0 +1,16 @@
+DEBUG:tester.py:debug msg at line 16
+INFO:tester.py:info msg at line 17
+DEBUG:tester.py:after enabling debug msg at line 24
+INFO:tester.py:after enabling info msg at line 25
+DEBUG:tester.py:debug msg at line 16
+INFO:tester.py:info msg at line 17
+DEBUG:tester.py:after enabling debug msg at line 24
+INFO:tester.py:after enabling info msg at line 25
+DEBUG:tester.py:debug msg at line 16
+INFO:tester.py:info msg at line 17
+DEBUG:tester.py:after enabling debug msg at line 24
+INFO:tester.py:after enabling info msg at line 25
+DEBUG:tester.py:debug msg at line 16
+INFO:tester.py:info msg at line 17
+DEBUG:tester.py:after enabling debug msg at line 24
+INFO:tester.py:after enabling info msg at line 25

@@ -1,0 +1,2 @@
+2019-06-11 19:21:29,509:DEBUG:logger.py:test at line 27
+2019-06-11 19:22:05,994:DEBUG:logger.py:{'filename': 'samplelogger', 'level': 'DEBUG', 'turnOnDebug': True, 'turnOnInfo': True, 'format': '%(asctime)s:%(levelname)s:%(filename)s:%(message)s at line %(lineno)s'} at line 27

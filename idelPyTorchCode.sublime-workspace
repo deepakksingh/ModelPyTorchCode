@@ -1,0 +1,1077 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rand",
+				"randLoader\tstatement"
+			],
+			[
+				"input",
+				"input_size\tstatement"
+			],
+			[
+				"turn",
+				"turnOnInfo"
+			],
+			[
+				"log",
+				"loggingLevel\tstatement"
+			],
+			[
+				"dw",
+				"download_all_sites\tfunction"
+			],
+			[
+				"is",
+				"is_alive\tfunction"
+			],
+			[
+				"Print",
+				"printCube\tfunction"
+			],
+			[
+				"prin",
+				"printSquare\tfunction"
+			],
+			[
+				"swim",
+				"swim_backwards\tfunction"
+			],
+			[
+				"train",
+				"trainDirPath\tstatement"
+			],
+			[
+				"val",
+				"val_img_path\tstatement"
+			],
+			[
+				"tran",
+				"trainDirPath\tstatement"
+			],
+			[
+				"abs",
+				"abstractmethod\tfunction"
+			],
+			[
+				"raise",
+				"raiseAmount\tstatement"
+			],
+			[
+				"get",
+				"getLevelName\tfunction"
+			],
+			[
+				"bas",
+				"BASIC_FORMAT\tstatement"
+			],
+			[
+				"soft",
+				"softmaxedTensor"
+			],
+			[
+				"max",
+				"maxedSoftmaxedTensor"
+			],
+			[
+				"targetM",
+				"targetMaskImage"
+			],
+			[
+				"pred",
+				"predictedSoftMaxImage"
+			],
+			[
+				"in",
+				"inputTensor"
+			],
+			[
+				"valD",
+				"valDataLoader"
+			],
+			[
+				"mo",
+				"model_path"
+			],
+			[
+				"dat",
+				"dataRoot"
+			],
+			[
+				"va",
+				"val_path"
+			],
+			[
+				"dl",
+				"deltaTime"
+			],
+			[
+				"tra",
+				"trainOnGPU"
+			],
+			[
+				"trainD",
+				"trainDataLoader"
+			],
+			[
+				"NUM",
+				"NUM_OF_OUTPUT_CHANNELS"
+			],
+			[
+				"PAS",
+				"PascalVOCDataset"
+			],
+			[
+				"mask",
+				"mask_dir"
+			],
+			[
+				"img",
+				"img_dir"
+			],
+			[
+				"data",
+				"data_root"
+			],
+			[
+				"N",
+				"NUM_OF_EPOCHS"
+			],
+			[
+				"M",
+				"MySegNet"
+			],
+			[
+				"OEF",
+				"oefImageFileName"
+			],
+			[
+				"model",
+				"modelpath"
+			],
+			[
+				"oef",
+				"oefImageFileName"
+			],
+			[
+				"oe",
+				"oefImageFileName"
+			],
+			[
+				"show",
+				"showEdgeImage"
+			],
+			[
+				"cann",
+				"cannyEdgeFileName"
+			],
+			[
+				"edgeImage",
+				"edgeImageFileName"
+			],
+			[
+				"cannyE",
+				"cannyEdPhotoImage"
+			],
+			[
+				"sobe",
+				"sobeledImage"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"image",
+				"imageMatPhotoImage"
+			],
+			[
+				"P",
+				"filePath"
+			],
+			[
+				"sob",
+				"sobeledImage"
+			],
+			[
+				"status",
+				"statusframelabel"
+			],
+			[
+				"stat",
+				"statusframe"
+			],
+			[
+				"title",
+				"titleframe1label"
+			],
+			[
+				"rei",
+				"resizedOEF"
+			],
+			[
+				"resiz",
+				"resizedSobel"
+			],
+			[
+				"resized",
+				"resizedOEF"
+			],
+			[
+				"res",
+				"resImageOEF"
+			],
+			[
+				"DISP",
+				"dispImagesArr"
+			],
+			[
+				"disp",
+				"dispImagesArr"
+			],
+			[
+				"imageMa",
+				"imageMatImage"
+			],
+			[
+				"np",
+				"npImageMat"
+			],
+			[
+				"bt",
+				"btnRunFunction"
+			],
+			[
+				"LE",
+				"leftFrame"
+			],
+			[
+				"le",
+				"leftFrameLabel"
+			],
+			[
+				"mid",
+				"middleFrameLabel"
+			],
+			[
+				"left",
+				"leftFrameLabel"
+			],
+			[
+				"sta",
+				"statusLabel"
+			],
+			[
+				"open",
+				"openedImage"
+			],
+			[
+				"ope",
+				"openedImage"
+			],
+			[
+				"INSE",
+				"insertButton"
+			],
+			[
+				"sub",
+				"subMenu2"
+			],
+			[
+				"do",
+				"doNothing"
+			],
+			[
+				"pr",
+				"printName"
+			],
+			[
+				"use",
+				"usernameLabel"
+			],
+			[
+				"h",
+				"HORIZONTAL"
+			],
+			[
+				"getN",
+				"getName"
+			],
+			[
+				"shor",
+				"shortestPath"
+			],
+			[
+				"child",
+				"childrenOf"
+			],
+			[
+				"resu",
+				"resultList"
+			],
+			[
+				"prof",
+				"profTrivediPic2"
+			],
+			[
+				"s",
+				"species"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "codebase/logger/logger.py",
+			"settings":
+			{
+				"buffer_size": 1161,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "codebase/config/configReader.py",
+			"settings":
+			{
+				"buffer_size": 341,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "configFiles/config1.yaml",
+			"settings":
+			{
+				"buffer_size": 684,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "samplelogger",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tester.py",
+			"settings":
+			{
+				"buffer_size": 354,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "tester.py"
+			}
+		},
+		{
+			"file": "dataParallelExample.py",
+			"settings":
+			{
+				"buffer_size": 1299,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import torch"
+			}
+		},
+		{
+			"file": "modelParallelExample.py",
+			"settings":
+			{
+				"buffer_size": 664,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "modelParallelExample.py"
+			}
+		},
+		{
+			"file": "configFiles/config2.yaml",
+			"settings":
+			{
+				"buffer_size": 267,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Conda/Conda.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-anaconda.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python-anaconda.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"build",
+				"Build With: python-anaconda"
+			],
+			[
+				"cond",
+				"Conda: Activate Environment"
+			],
+			[
+				"c",
+				"Conda: List Packages"
+			],
+			[
+				"con",
+				"Conda: Activate Environment"
+			],
+			[
+				"conda e",
+				"Conda: List Environments"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Build With: python-anaconda"
+			],
+			[
+				"anaconda lin",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/deepak/ws/pytorchPractice/idealPyTorchCode/configs/config2.yaml",
+		"/home/deepak/ws/pytorchPractice/idealPyTorchCode/customLogger/logger.py",
+		"/home/deepak/ws/pytorchPractice/idealPyTorchCode/configReader/configReader.py",
+		"/home/deepak/ws/pytorchPractice/idealPyTorchCode/configs/config1.yaml",
+		"/home/deepak/ws/pytorchPractice/idealPyTorchCode/configReader.py",
+		"/home/deepak/ws/pytorchPractice/idealPyTorchCode/logger.py",
+		"/home/deepak/ws/pythonProjs/practice/concurrency/threadingpractice.py",
+		"/home/deepak/ws/pythonProjs/practice/concurrency/synchronous.py",
+		"/home/deepak/ws/pythonProjs/practice/multiprocessing_part1a.py",
+		"/home/deepak/ws/pythonProjs/practice/multiprocessing_part1.py",
+		"/home/deepak/ws/pythonProjs/practice/inheritance.py",
+		"/home/deepak/ws/pythonProjs/practice/concurrency/file2.py",
+		"/home/deepak/ws/pythonProjs/practice/concurrency/file1.py",
+		"/home/deepak/.config/sublime-text-3/Packages/User/dev_env_python_anaconda.sublime-build",
+		"/home/deepak/ws/pythonProjs/practice/concurrency/dumb.py",
+		"/home/deepak/ws/pythonProjs/practice/concurrency/runner.sh",
+		"/home/deepak/ws/pythonProjs/practice/test.py",
+		"/home/deepak/ws/pythonProjs/practice/polymorphism.py",
+		"/home/deepak/ws/pythonProjs/practice/abstraction.py",
+		"/home/deepak/ws/pythonProjs/practice/trash.py",
+		"/home/deepak/.config/sublime-text-3/Packages/User/python-anaconda.sublime-build",
+		"/home/deepak/ws/pythonProjs/practice/concurrency/config1.yaml",
+		"/home/deepak/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/deepak/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/usr/lib/python2.7/logging/__init__.py",
+		"/home/deepak/ws/pythonProjs/practice/loggingPractice",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/dataset.py",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/validation.py",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/model.py",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/trash.py",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/randomtest.py",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/buffer.txt",
+		"/home/deepak/.config/sublime-text-3/Packages/User/sftp_servers/ada",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/trainer.py",
+		"/home/deepak/bin/myscripts/hello_world",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/randomtest.py",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/buffer.txt",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/dataset.py",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/validation.py",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/trainer.py",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/model.py",
+		"/home/deepak/Desktop/Link to ws/research-work/semantic segmentation/notes",
+		"/home/deepak/bin/myscripts/sysinfo_page",
+		"/home/deepak/.bashrc",
+		"/run/user/1000/gvfs/sftp:host=10.2.16.102,user=deepak/home/deepak/ws/ShellScripting/test.sh",
+		"/home/deepak/Desktop/projectGUI/correlationTester.py",
+		"/home/deepak/Desktop/projectGUI/guihomenew.py",
+		"/home/deepak/Desktop/projectGUI/converter.py",
+		"/home/deepak/Desktop/projectGUI/buffer.py",
+		"/home/deepak/Desktop/projectGUI/buffer2.py",
+		"/home/deepak/Desktop/projectGUI/buffer3.py",
+		"/home/deepak/Desktop/projectGUI/tester.py",
+		"/home/deepak/Desktop/projectGUI/guihome.py",
+		"/home/deepak/Desktop/guihome.py",
+		"/home/deepak/Desktop/projectGUI/imagesandicons.py",
+		"/home/deepak/Desktop/projectGUI/shapesandgraphics.py",
+		"/home/deepak/Desktop/projectGUI/messagebox.py",
+		"/home/deepak/Desktop/projectGUI/uiFunctions.py",
+		"/home/deepak/Desktop/projectGUI/statusbar.py",
+		"/home/deepak/Desktop/projectGUI/toolbar.py",
+		"/home/deepak/Desktop/projectGUI/dropdown.py",
+		"/home/deepak/Desktop/projectGUI/usingClasses.py",
+		"/home/deepak/Desktop/projectGUI/bindingafunction.py",
+		"/home/deepak/Desktop/projectGUI/main.py",
+		"/home/deepak/Desktop/projectGUI/gridlayout.py",
+		"/home/deepak/Desktop/projectGUI/fittingwidgets.py",
+		"/home/deepak/Desktop/Link to Research-Papers/README.md",
+		"/home/deepak/.config/sublime-text-3/Packages/User/python3anaconda.sublime-build",
+		"/home/deepak/Desktop/projectGUI/mmts.jpg",
+		"/home/deepak/Desktop/Link to 2019/cv/assignments/clones/uiGrabCut/grabcutp3.py",
+		"/home/deepak/Desktop/Link to 2019/cv/assignments/clones/uiGrabCut/main1.py",
+		"/home/deepak/Desktop/Link to 2019/cv/assignments/clones/uiGrabCut/grab.py",
+		"/home/deepak/Desktop/trash.py",
+		"/home/deepak/ws/pythonProjs/graphs/Graph.py",
+		"/home/deepak/ws/pythonProjs/graphs/Digraph.py",
+		"/home/deepak/ws/pythonProjs/graphs/Node.py",
+		"/home/deepak/ws/pythonProjs/graphs/tester.py",
+		"/home/deepak/Desktop/Link to CV-Project-2019/bin/gui/runner.py",
+		"/home/deepak/Desktop/Link to CV-Project-2019/bin/gui/trash.py",
+		"/home/deepak/ws/pythonProjs/graphs/Edge.py",
+		"/home/deepak/JournalDraft/j1/J1-01-01-2019.md",
+		"/home/deepak/JournalDraft/j2/J2-02-01-2019.md",
+		"/home/deepak/JournalDraft/J0-31-12-2018.md",
+		"/home/deepak/.config/sublime-text-3/Packages/User/python3.sublime-build",
+		"/home/deepak/Desktop/dip assignments/a4/src/a4q1.ipynb"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"/ssd_scratch/cvit/dksingh/cityscapes",
+			":",
+			"\")\n",
+			"val_img_path",
+			"loss",
+			"/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/share1/dksingh/custom_cityscapes",
+			"",
+			"pathToEdit",
+			"\",\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "codebase/logger/logger.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1134,
+								1134
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 25.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "codebase/config/configReader.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "configFiles/config1.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "samplelogger",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "tester.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "tester.py",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "dataParallelExample.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								655,
+								655
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "import torch",
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "modelParallelExample.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "modelParallelExample.py",
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "configFiles/config2.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 171.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.431508490914,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 225.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 176.0
+	},
+	"pinned_build_system": "Packages/User/dev_env_python_anaconda.sublime-build",
+	"project": "idelPyTorchCode.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/LinkToPyTorchImplementations/SegNetImplementation/segnet.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
